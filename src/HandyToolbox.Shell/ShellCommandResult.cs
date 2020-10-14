@@ -1,6 +1,5 @@
 ﻿//
 // ShellCommandResult.cs
-// 7/20/2020 
 //
 // Author:
 //       Andrey Kornich <akornich@gmail.com>
@@ -25,6 +24,7 @@
 // OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 // THE SOFTWARE.
 //
+
 using System;
 
 namespace HandyToolbox.Shell

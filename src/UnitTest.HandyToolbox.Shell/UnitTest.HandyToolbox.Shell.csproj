@@ -16,4 +16,7 @@
   <ItemGroup>
     <ProjectReference Include="..\HandyToolbox.Shell\HandyToolbox.Shell.csproj" />
   </ItemGroup>
+  <ItemGroup>
+    <None Remove="*.cs~" />
+  </ItemGroup>
 </Project>
